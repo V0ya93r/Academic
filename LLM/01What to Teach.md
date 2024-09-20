@@ -1,0 +1,13 @@
+- Big picture knowledge about big models in NLP and beyond.(Week 1)
+  - Basics of NLP and neural models
+  - Why and how NLP models become larger
+  - New paradigms范式 and methods in big models
+  - Open problems and challenges in big model systems
+- Ability to use open-source toolkits to build practical systems based on big models(Week 2 )
+  - Utilization利用 of big models is not easy due to the giant size
+  - Learn to use open-source toolkits
+
+- Ability to solve novel open problems with the power of big models(Week 3)
+  - How to review related works in the related area
+  - How to identify the key challenges for the task
+  - How to figure out solutions to the challenge from big models' point of view
